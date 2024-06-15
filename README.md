@@ -1,7 +1,8 @@
-# Crop-Recommendation-System
+# Problem Defination:Crop-Recommendation-System
 Precision agriculture is currently trending, offering farmers the ability to make informed decisions about their farming strategies. This system was created by combining data on rainfall, climate, and fertilizer use available for Indian datasets. The model performs well in neighboring countries such as Nepal, Sri Lanka, Bhutan, and others Asian countries and other countries as well. Predicting suitable crops for farmers can significantly enhance land productivity and farming efficiency.
 
-**How and whom does crop recommendation system benefits?**
+# Purpose:
+The goal of this system is to predict suitable crops for farmers based on specific soil and climate conditions. By providing data-driven insights, the system aims to significantly enhance land productivity and farming efficiency.
 **Farmers**: By providing them with data-driven insights, it helps farmers select the most suitable crops for their specific soil and climate conditions, leading to increased yields and improved farming efficiency.
 
 **Agricultural Planners and Policymakers**: They can use the system to develop better agricultural strategies, optimize resource allocation, and implement sustainable farming practices.
@@ -29,4 +30,7 @@ Precision agriculture is currently trending, offering farmers the ability to mak
 **rainfall** - rainfall in mm Based on this variables, we will try to predict crop recommendation system for farmers.
 
 
-_I have implemented a Gaussian Naive Bayes machine learning model, achieving an accuracy of 99.5%. I plan to deploy this model using Flask and Heroku, making it accessible to farmers worldwide. This dataset is available in  Kaggle ._ https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
+# Model Implementation:
+I have implemented a Gaussian Naive Bayes machine learning model, achieving an accuracy of 99.5%. I plan to deploy this model using Flask and Heroku, making it accessible to farmers worldwide. 
+
+**Dataset:** This dataset is available in  Kaggle ._ https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
